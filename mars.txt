@@ -1,4 +1,2 @@
 Mars is red.
 Mars has two moons.
-My favourite moon is Phobos.
-There may be water on Mars.
