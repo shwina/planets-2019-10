@@ -1,2 +1,2 @@
-Mars is blue.
+Mars is not green.
 Mars has two moons.
